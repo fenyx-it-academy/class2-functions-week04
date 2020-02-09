@@ -44,6 +44,7 @@ Write a function that gives the least common multiple  of entered 2 input number
 
 Write a function that gives the reading of entered any two-digit number. 
 	For example: 28---------------->Twenty Eight
+	
 
 
 7-pythagoras.py
